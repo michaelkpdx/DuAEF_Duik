@@ -71,7 +71,7 @@ The autorig will adapt to every configuration.
 
 ![Fish illustration](img/examples/carpes-structures.jpg)  
 _Illustration by [Jissse](http://jissse.com)_  
-With tails, you can even rig fishes very easily.
+With tails, you can rig fish very easily.
 
 !!! tip
     In the Autorig options, you can choose between rigging tails using [Bezier IK](autorig.md#bezier-ik-multi-layer-spine-tails) controls or [FK (with automatic follow through and overlap)](autorig.md#fk-with-follow-through-overlap-and-drag-tails) controls. The latter achieves a natural motion more easily, but IK could be needed in some cases, like if the tail interacts with anything else.
